@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-boundary
+module github.com/matdehaast/terraform-provider-boundary
 
 go 1.18
 
