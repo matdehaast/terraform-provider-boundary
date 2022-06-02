@@ -1,8 +1,8 @@
-package main
+package boundary
 
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"github.com/hashicorp/terraform-provider-boundary/internal/provider"
+	"github.com/matdehaast/terraform-provider-boundary/internal/provider"
 )
 
 func NewProvider() *schema.Provider {
